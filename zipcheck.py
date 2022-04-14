@@ -8,7 +8,7 @@ import json
 ZIP_CODE = '73301'
 COUNTRY = 'US'
 # lets check that this is the zip for Austin.
-CONTROL = 'Austinx'
+CONTROL = 'Austin'
 # Use the Zippo public API
 
 
