@@ -1,7 +1,7 @@
 # Zipcheck
 
 
-*A small python program for check a city name against a control zip code*  
+*A small python program to check a city name against a control zip code*  
 
 ## Code
 
